@@ -2,7 +2,7 @@
 
 :computer: love what I do when busy,
 
-do what I love when free. :basketball
+do what I love when free. 🏀
 
 <!---
 ibrahimtok/ibrahimtok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
