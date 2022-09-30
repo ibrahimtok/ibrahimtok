@@ -1,8 +1,8 @@
 👋 Hi, I’m @ibrahimtok
 
-:computer: love what I do when busy,
+:construction: love what I do when busy,
 
-do what I love when free. 🏀
+do what I love when free. :computer:
 
 <!---
 ibrahimtok/ibrahimtok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
