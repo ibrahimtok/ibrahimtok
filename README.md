@@ -1,6 +1,6 @@
 👋 Hi, I’m @ibrahimtok
 
-:construction: love what I do when busy,
+love what I do when busy, :construction:
 
 do what I love when free. :computer:
 
