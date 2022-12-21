@@ -1,8 +1,8 @@
 👋 Hi, I’m @ibrahimtok 👨‍👩‍👧‍👦
 
-**love what I do** when busy :construction: 🏗️ 👨‍💼 👷
+**love what I do** when busy :construction: 🏗️ 👨‍💼 👷 :computer:
 
-**do what I love** when free :computer: 🏀 🏊 🎒 🚴
+**do what I love** when free 🏀 🏊 🎒 🚴
 
 <!---
 ibrahimtok/ibrahimtok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
